@@ -1,2 +1,6 @@
 Full Name (as on Canvas): GitHub_id
+<<<<<<< HEAD
+=======
+Ethan Hirsch: BOOSTO
 Chalida (Anita) Ruangrotsakun: ruangroc
+>>>>>>> 5de8f915e9274b85b329f80672956744b05dc8fe
